@@ -1,4 +1,4 @@
-# Webhook Tool
+# ⭐ Webhook Tool by Bat
 
 ## Overview
 
@@ -13,22 +13,16 @@ The Webhook Tool is a Python-based utility designed to manage Discord webhooks. 
 
 To get started with the Webhook Tool, follow these steps:
 
-1. **Clone the Repository:**
+1. **Install Dependencies:**
+    The tool requires a few Python packages. Install them with:
     ```bash
-    git clone https://github.com/yourusername/webhook-tool.git
-    cd webhook-tool
+    setup.bat
     ```
 
-2. **Install Dependencies:**
-    The tool requires a few Python packages. Install them using the following command:
+2. **Run the Tool:**
+    Execute the Python script to start the Webhook Tool or the file.exe created:
     ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Tool:**
-    Execute the Python script to start the Webhook Tool:
-    ```bash
-    python webhook_tool.py
+    python webhookTool.py
     ```
 
 ## Usage
@@ -46,15 +40,11 @@ Once the tool is running, you will be presented with a menu:
 - `colorama`
 - `pystyle`
 
-All required Python packages are listed in the `requirements.txt` file.
+All required Python packages are listed in the `setup.bat` file.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
