@@ -20,7 +20,7 @@ To get started with the Webhook Tool, follow these steps:
     ```
 
 2. **Run the Tool:**
-    Execute the Python script to start the Webhook Tool or the file.exe created:
+    Execute the Python script to start the Webhook Tool or the file.exe created in 'dist':
     ```bash
     python webhookTool.py
     ```
