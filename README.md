@@ -1,4 +1,4 @@
-# [⭐ Webhook Tool by Bat]([https://your-link-here.com](https://discord.gg/DHgnGFEWN8))
+# [⭐ Webhook Tool by Bat]([https://discord.gg/DHgnGFEWN8])
 
 ## Overview
 
