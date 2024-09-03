@@ -46,10 +46,6 @@ All required Python packages are listed in the `setup.bat` file.
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
 
-## Acknowledgments
-
-Special thanks to everyone who has contributed to improving this tool.
-
 ---
 
 **Note:** This tool is intended for educational and testing purposes only. Misuse of this tool is not encouraged and should be avoided.
